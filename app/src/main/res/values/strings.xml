@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CPR</string>
+
+    <string name="encourage">It\'s far better to do something than nothing at all!</string>
+    <string name="step1">Check to make sure the person is unconscious. Tap the shoulder and loudly ask \"Are you okay?\"</string>
+    <string name="step2">If the person is unresponsive, dial 911 or tell someone to do it.</string>
+    <string name="step3">Use an AED first if available. Then, begin chest compressions at 100 beats per minute until help arrives.</string>
+    <string name="compressions">1. To do this, place the heel of one hand in the middle of the person\'s chest. Place your other hand on top.</string>
+    <string name="compressions2">2. Keeping your elbows straight and your shoulders directly above your hands, push straight down and hard at least 2 inches on the person\'s chest at 100 BPM.</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="dial_button">Dial 911</string>
+    <string name="play_song">Play song at 100 BPM</string>
+</resources>
